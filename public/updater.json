@@ -1,11 +1,11 @@
 {
   "version": "0.5.11",
   "notes": "add support updater",
-  "pub_date": "2026-06-03T13:36:05.497Z",
+  "pub_date": "2026-06-03T13:42:47.042Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcURlV1h2NmdwMjBENGwxK0o0VmNaN2VOa1gzd1ppUS9mRG01S3pUZHZxNmdZWWJoVG1ZbUU3WmU4TTF0VVZPTDJ3NURSZTk5d0VNcGNGeEhvWnJyU2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDkzMzQzCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKOGtFSzc3blQ3YmhuOEpVNnFtdklXY2V4enpnbnhDTDVuWGRpcWIyQmJLaWo2eU5ENVU5Ri9DbUFtM0RaL0c3NWt5WUxhbVFyVENRVytaUHRKZGNIQVE9PQo=",
-      "url": "https://coding.jd.com/webapi/id2ai/ai-tool-chain-manager/files/34027/AI-Tool-Chain-Manager.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcU9zT2puaGcvM0dHNEEzN2lqYy9vWkVZWGlEcGlNQUdRRHEzdHRyOXdxTkxYSDhhOGRsVDJoVEFSdkRJS2J5dHZLekU2a3lCU1lGR09LUzJBZkJRUkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDk0MTE2CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKYjNjaVk5SWtkY1NGN3lqbm41dkFMdnFVU2hEN0lRb2E3SjRQK2JPSlRwZ0NzUzRpbDRQZEp0b05ocGtBT1hwRFg4ZHBMc0VkNGp3bnkwTEFSa1hlQUE9PQo=",
+      "url": "https://coding.jd.com/webapi/id2ai/ai-tool-chain-manager/files/34028/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
 }
