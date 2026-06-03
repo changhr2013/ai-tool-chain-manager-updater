@@ -1,0 +1,11 @@
+{
+  "version": "0.5.10",
+  "notes": "自更新及配置集性能优化版",
+  "pub_date": "2026-06-03T12:47:10.031Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUxmSm02SUtNTnZvc2JhWUNtOUVoQ1pUdmhKZlRyT1Q1dGFKOE9aSkFvblVQYlMwampLTUJtSkpiZVhERVg1NWFnUHA4elBGN3pudWlsanNhT1ByQVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDkwNjEyCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKMVo0cHpPM0V4NUFvR2lRelJkV0duNGhCcXFoTXdzeEpjMFRlU05FUTduYlNUNHN4RzBVMnNQdUYxSk85N0NFYkxpT0RZa0VsNG1TUE91WUtBRTJpQ2c9PQo=",
+      "url": "https://gitlab.example.com/api/v4/projects/123/packages/generic/ai-tool-chain-manager/0.5.10/AI-Tool-Chain-Manager.app.tar.gz"
+    }
+  }
+}
