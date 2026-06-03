@@ -1,11 +1,11 @@
 {
   "version": "0.5.10",
-  "notes": "自更新及配置集性能优化版",
-  "pub_date": "2026-06-03T12:47:10.031Z",
+  "notes": "支持自动更新",
+  "pub_date": "2026-06-03T13:12:53.439Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUxmSm02SUtNTnZvc2JhWUNtOUVoQ1pUdmhKZlRyT1Q1dGFKOE9aSkFvblVQYlMwampLTUJtSkpiZVhERVg1NWFnUHA4elBGN3pudWlsanNhT1ByQVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDkwNjEyCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKMVo0cHpPM0V4NUFvR2lRelJkV0duNGhCcXFoTXdzeEpjMFRlU05FUTduYlNUNHN4RzBVMnNQdUYxSk85N0NFYkxpT0RZa0VsNG1TUE91WUtBRTJpQ2c9PQo=",
-      "url": "https://gitlab.example.com/api/v4/projects/123/packages/generic/ai-tool-chain-manager/0.5.10/AI-Tool-Chain-Manager.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUhKSXhQYmRpeG5MMU53MHB3ZC96cFYwWTE0UWQ5VXg2dmgxMExLOE03L1h1eVRPZXdma1p3U2dEcEdhR1kxUXBpK0ZMUmdPc3F3TndpcW5IMkVoNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDkyMDcyCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKTlYrcURaMjlpemdBcG1KYXlJYWs4UjlrV3ZhME1HZnIrcnVRTXNzeXhEZG55aGFOckFVL013T3hWcnFyVS9tQjR4ZmVBUG5KczN4Y2R3ZGlYT0NiRGc9PQo=",
+      "url": "https://coding.jd.com/webapi/id2ai/ai-tool-chain-manager/files/34023/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
 }
