@@ -1,10 +1,10 @@
 {
-  "version": "0.5.14",
-  "notes": "检查更新按钮优化",
-  "pub_date": "2026-06-05T05:43:12.502Z",
+  "version": "0.5.15",
+  "notes": "支持 CPA 外置浏览器打开的快捷按钮",
+  "pub_date": "2026-06-05T06:49:09.061Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUNpTGo0K3ZGTjhST1RYc3hjTXJWNm9Ib2VMeXJkdVVKN1IyNUVKV2hhZUpRVUd4bVJuTDBIWFZzSWpyU0VhN01heW5iN0xGanpzR25kbFh6MURyMmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM4MDM2CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKdUJPWTQ2OTRGbVdkUTJLSWxLR2IvV0o5bTdsR1k5QjZXOXRPQlVKK2V4SXFTTk5FYkhtMXZFKzR0QTI1VzM0VUJMdjlJZ1lLNkY5N01rc0ROd1ptRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUlmdm93dkFYZy8vSzRVZ1hmcm9yZ2Q1KzlPN2JsMnhUWkhIYzcybi82K0x3Z1U2TXcwNW5mU2ltL2g1eWFwYUt4Ykx4M2F1T2ZyWm92cm5nbi92clFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQyMTQ5CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKUW9yR2Q3ODRoMVAxdDhPOHBid3NRMWEwOEU1bkt1SWtDSjdrK2tZYVlzMXVibzc1SDRlaWZuRFM1TTM4Tzd5RzNscUxNazFYK0l1b1U0MjdCUE1iQVE9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
