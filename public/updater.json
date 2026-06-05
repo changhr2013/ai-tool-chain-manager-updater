@@ -1,10 +1,10 @@
 {
-  "version": "0.5.15",
-  "notes": "支持 CPA 外置浏览器打开的快捷按钮",
-  "pub_date": "2026-06-05T06:49:09.061Z",
+  "version": "0.5.16",
+  "notes": "修正免密打开 CLIProxyAPI 管理平台",
+  "pub_date": "2026-06-05T08:48:51.080Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUlmdm93dkFYZy8vSzRVZ1hmcm9yZ2Q1KzlPN2JsMnhUWkhIYzcybi82K0x3Z1U2TXcwNW5mU2ltL2g1eWFwYUt4Ykx4M2F1T2ZyWm92cm5nbi92clFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQyMTQ5CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKUW9yR2Q3ODRoMVAxdDhPOHBid3NRMWEwOEU1bkt1SWtDSjdrK2tZYVlzMXVibzc1SDRlaWZuRFM1TTM4Tzd5RzNscUxNazFYK0l1b1U0MjdCUE1iQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUlNSFRhcTdhaGE1TUhZZXlFOGlJUlpEdCtRNjNRc2ZaSVJWa2xVd1ZZcDYyb1NTTHlHTVVEdmU0QVQ3V1ZlTTF6dUJvMHlRaTllZlcvazlJV3VlNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ5MzMxCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZ2Q4MTFDS2pnWll5WERTRDdYMnFhUVF2MnI3dkJPQWhxSDZpbGw5cGwrajE2NHlkeGpGYWs3ODFwV3NlZWdlRm5lZ3lpcTNKaGswL1FUN3RoODFvQ2c9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
