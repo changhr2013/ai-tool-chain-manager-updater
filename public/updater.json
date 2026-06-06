@@ -1,10 +1,10 @@
 {
-  "version": "0.5.16",
-  "notes": "修正免密打开 CLIProxyAPI 管理平台",
-  "pub_date": "2026-06-05T08:48:51.080Z",
+  "version": "0.5.17",
+  "notes": "UI 和布局优化, 引入全新的编辑器设计.",
+  "pub_date": "2026-06-06T13:24:56.731Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUlNSFRhcTdhaGE1TUhZZXlFOGlJUlpEdCtRNjNRc2ZaSVJWa2xVd1ZZcDYyb1NTTHlHTVVEdmU0QVQ3V1ZlTTF6dUJvMHlRaTllZlcvazlJV3VlNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ5MzMxCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZ2Q4MTFDS2pnWll5WERTRDdYMnFhUVF2MnI3dkJPQWhxSDZpbGw5cGwrajE2NHlkeGpGYWs3ODFwV3NlZWdlRm5lZ3lpcTNKaGswL1FUN3RoODFvQ2c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUNNWG90SUlTMzcwUHdscWd0SzJja2xoUStuQ2VhTnFIV1hLK3VTZmNQWDFvT21NemM1YktCM1hUQ1FBenV0SVh2eEFuK1BpTUFFeWsxZEhHWXJqWFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzUyMjk2CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKeFhEZWEzWVFTOFVUODlhb05pYWFVQ3UxQk9sRnpnc0puMENSOG9mRkJra0xHZXZ0eFBSUW8yZnppRVBiZVNBSWJ2ZTcxdHkybjgyVWl2Qlc4UkNpQmc9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
