@@ -1,10 +1,10 @@
 {
-  "version": "0.5.18",
-  "notes": "修复 release 模式下的菜单渲染问题",
-  "pub_date": "2026-06-06T14:51:39.519Z",
+  "version": "0.5.19",
+  "notes": "重构 codex 可视化配置\n提供全新的源配置编辑器",
+  "pub_date": "2026-06-09T13:47:42.004Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUJnWVNJdnlBRDBGMmErZE9CMFlQb01kYUdWbzlLREFHcXpWWjRjMUdObWlTcUlOMUJsSWJQY2pjTUM0M1piRWN4WmxrUkdiUUowd3ZPb3BIWUpFOWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzU3NDk5CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKU05PTG9MM2lKNnpZNzhkZW9QYmJIY1BNSlQ3RnBiMXRYNmVxUVpRRURrN05iYkFFcGlMazdodXV5b25zbytHSnc2d2JEZnNjdmUxVU1rVE9uanNCQUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcU5uekZXK01nNVZrMjJreDJ4L1N1eDk1YU1hTmQ5YlQ0cC80ZjJBVHFjd1FTb3lpNGRyWkp4NHhibktuMDdUMjdERmIyaUVhMTQxTGYwS2dybTFlRVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDEyODYxCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZktTZmNwV1V1WERaUzUyTmQ4Z0d2Vi9lOEhsR3A1alZ3MmdpaloybDVTQzlQdmErcko0TjljQ092aTlFYloxeWpmVEs5WU84RW5KREZ3UkxUWWZPQ3c9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
