@@ -1,10 +1,10 @@
 {
-  "version": "0.5.21",
-  "notes": "修正首页系统仪表盘 Codex CLI 版本检测\n为 Codex Provider 与 Profiles 补充删除能力\n关闭 Codex 配置输入的自动首字母大写和自动纠错",
-  "pub_date": "2026-07-24T10:57:30.070Z",
+  "version": "0.5.22",
+  "notes": "修复集市技能仓 Git 分叉同步失败\n新增重置为远程版本恢复能力\n优化集市更新为非阻塞后台同步",
+  "pub_date": "2026-07-24T12:55:57.764Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUIzU0swd2dlUmZST2RiRHFFcE95dTRNUnRkeHdKVXpWbjh5czRrMStYVm5DZ01xTG94Q1JCMjVxVHArNWVrTnlTb0x0MmNneFFVUnZIUldFVWZaV0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODkwNjQ5CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKSFoxR2xzeE92U3JUcDhDNS8wZzVUcU1UMjBSZFF1SEQ1MWdYQ3c0NFU2TlZnSjFlbktidFR3WVRxcXJTTXg4alFiSGJIcGl3ZDRPZGNPdk0wL1BxQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUtzemxyb1ZpdTJ0QVd0aFI3aTRUQ2xsN2tHU0ZXcm8ybDlkV0h5bXBpbnJsZ1QzeVNqdWV1WVBtVmlFWm50c3BjNzRKS0sxS2JsNUEvMU12bk5wVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODk3NjYzCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKbVVQd0pSdEJDcERRMzlLWHFhMlYvdUtsemZPUnVaR3FlN2x2Uk5mbVFRdW0yY3FYenlPdmhMTWN1dk9NejdRODZUZkRlWlJlQm4waWtyQk5kRGJ4RHc9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
