@@ -1,10 +1,10 @@
 {
-  "version": "0.5.19",
-  "notes": "重构 codex 可视化配置\n提供全新的源配置编辑器",
-  "pub_date": "2026-06-09T13:47:42.004Z",
+  "version": "0.5.20",
+  "notes": "升级内置 CLIProxyAPI 到 v7.2.97\n优化 CLIProxyAPI 原生编译与 Tauri 打包路径，移除机器绝对路径依赖\n增强 CLIProxyAPI 升级规范与 safe-mode 兼容说明",
+  "pub_date": "2026-07-24T09:22:37.487Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcU5uekZXK01nNVZrMjJreDJ4L1N1eDk1YU1hTmQ5YlQ0cC80ZjJBVHFjd1FTb3lpNGRyWkp4NHhibktuMDdUMjdERmIyaUVhMTQxTGYwS2dybTFlRVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDEyODYxCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZktTZmNwV1V1WERaUzUyTmQ4Z0d2Vi9lOEhsR3A1alZ3MmdpaloybDVTQzlQdmErcko0TjljQ092aTlFYloxeWpmVEs5WU84RW5KREZ3UkxUWWZPQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUJ5aFNxZjZZdWhBTXpHWmI1c2M1WU1uZkE3V3RFZGdON2QrZmc5K1hvQjZPUlZ0aGtDNk9GaHdtQzh2ZkZPdFdDa0w2eDJMRXU2RFI0djdHaEF2andjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODg0OTU3CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKb1B6L0xtdzVrbnE2YVRSZ0FqVm56ak1PUUw2M1lLc1J2RTY1RDk2OXRVbDRmM2FLSlBpazRSSlQwamM3OFMrL0xxdXZET1FMWWt2YXNyYk54T3MwQVE9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
