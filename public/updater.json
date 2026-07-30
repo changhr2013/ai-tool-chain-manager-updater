@@ -1,10 +1,10 @@
 {
-  "version": "0.5.24",
-  "notes": "修复 Codex 安全与权限配置交互：允许 login shell 默认值显示、Trusted Projects 删除草稿更新与删除交互。\n修复首页 OpenCode 版本检测在 nvm 多版本环境下可能命中旧可执行文件的问题。",
-  "pub_date": "2026-07-30T07:18:44.864Z",
+  "version": "0.5.25",
+  "notes": "统一通知、确认与长任务状态体验。\n修复集市源增量同步期间 UI 卡死，并让 Git 同步日志实时流式显示。\n优化技能管理、配置管理、更新管理等关键操作的反馈一致性。",
+  "pub_date": "2026-07-30T10:07:20.424Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcU5zdy9wRWRpcU81eDRsbHBkU1p2azVsVnV2ZXFLd2lPMHFyQkFZQldEcmo2aXN4WTYxY0Eva2tuZlg3Z3FHKzNmNStodDMrOVBMOHM1VVJDdjJPWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzk1OTI0CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKWktqVUNIZm9rcFNlcUVzR0p0T1BxYmFOandvQ1pKeWhxdjU5Z3ljbnEyZWdqV0xlV093VTVjWmhKRGhmcnFhREZWcUgwWTRDV3o3bTRRODFCd0x0Q0E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUhnZG5PV3M1VXBxcWpESWhxalRUcnRCR253ZzRTVkkrMU45OEhGVVh2dTArL3Z3eFVDdHZyTGRBaEV3OVh1RThTQkp2eXhzQnFrdUR2Z1NqTHdSdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDA2MDMxCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKbzJUWW1WMEhqRU11Q3VRR3IxcFVzWm4vNmZXTyt5RDlYUmx1RjVuU2doVzhXZzBTeVdseW4rMWZ6SGUzOTVwUkFNdkN4THVKc3RwZnJkeWtZUFQxRGc9PQo=",
       "url": "http://test.storage.jd.com/lss.jr.com/AI-Tool-Chain-Manager.app.tar.gz"
     }
   }
