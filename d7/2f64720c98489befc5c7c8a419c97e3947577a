@@ -1,0 +1,19 @@
+public/updater.json
+  s_55cd1837206bf4::t_edc288e1b82985 2-4,7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "d72f64720c98489befc5c7c8a419c97e3947577a",
+  "prompts": {},
+  "sessions": {
+    "s_55cd1837206bf4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eaa75-9394-7d60-8f9a-d7554f7bcb8d",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "changhaoran.5 <changhaoran.5@jd.com>"
+    }
+  }
+}
