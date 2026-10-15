@@ -1,11 +1,11 @@
 {
-  "version": "0.5.26",
-  "notes": "打通京东云 OSS 全自动发版流程，支持上传校验、更新源自动发布与受限恢复。",
-  "pub_date": "2026-08-21T08:26:13.849Z",
+  "version": "0.5.27",
+  "notes": "统一 MCP 管理与命令行配置；升级内置 CLIProxyAPI 至 v8.0.29。",
+  "pub_date": "2026-10-15T04:10:19.787Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUphL0s2bVJkUFEzc1ZlRG5aKys2a3MzRm9OektlV3cwZ1RYV240cThHbFFFVnZKUjJQalhDZnJyZ0tnS3R1eXlwYmpxWnNCZlpTcFMwWmdqbWJuaHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjk5Nzg0CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZEZJOElRdHNvSzZwaVJTeTRpbzJma0hoMUl1TE51WXJTNzNJS2F1SFFqZWY4Yk5jYkUyQ1hxbmtXak91SGJqRE1LMVU0SkNEWFprbGV3dVp5cEpwRGc9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.26/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1818836766&Signature=x%2FakbI2HGAM4njA6fsfhEze%2F2P4%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcURCTmsvcVN1eEQ2UDVLc0Z3bGs2R1RrRERSSGh1WEw1bStMdDQ1UVRNdy91dEFQVm5HRHBHM1FwSkZRc1lBZ2dtNSt4MDJ6S1FjcEE5RWlvalVwZGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDM3NDA4CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKYTl0aDV2enJHL0cvMnFSM3JDRTFtc1Q4S01JRWJ5RlgvZlA3T3dwb2pwUFN0dFlMeFJQN1F2OUs5cGxBY21SU2J2UFlWQzVhcUFaOXFEdTRYRGwxQXc9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.27/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1823573408&Signature=1aCQ3ag4QKxHFWMcYXE9ZjJchmg%3D"
     }
   }
 }
