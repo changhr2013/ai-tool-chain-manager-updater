@@ -1,11 +1,11 @@
 {
-  "version": "0.5.28",
-  "notes": "统一 MCP 管理与公共 MCP 集市：集中查看 Claude Code、Codex、OpenCode 的 MCP 实例；支持经过预检与确认的安装、卸载、配置编辑和备份恢复；集市支持本地 Git 源同步、无秘密定义与安装记录核查。部分项目作用域操作仍需后续桌面回归。",
-  "pub_date": "2026-10-19T12:14:51.241Z",
+  "version": "0.5.29",
+  "notes": "统一 MCP 管理与公共 MCP 集市版本顺延至 0.5.29；功能与 0.5.28 相同，修正发布版本号。Claude 部分项目/本地级操作与 OpenCode 项目文件操作仍需后续桌面回归。",
+  "pub_date": "2026-10-19T12:29:25.143Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUE4QTArd1VWZ1ltZEV5K3pnc0lZWnRUOTlCbS9JT2ZCYXBic1ljUFFZYkswT0JPZDFBNGVDR0hwRS9XSFA4aGZwbnlCUG1IK1lnVzlFNlNmZ3dHY3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDEyMDc5CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKYy9ybGVybjRtcU9TMldMWGYycjlMRkxDc2N5elFHTmNITE4zUjhjNm5UaWpEODFwck90UDBNRWplMUc3dytsMXo0MXdaa1pUSG5sVmZQUGF3QlEwQ1E9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.28/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1823948079&Signature=EEMByv99UQIjErevzaRMjXiSk1s%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUQ1TEczRGM0NUlLaXBYeUpJSTRrUlY1ZGlkS0dVSFg1cHY4TzBENHVxRnViVk5mVHZXUDRja1BqL0ZuWXJPd0FaWDNHNG9XTWtuUjFoVE9sRlZFNXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDEyOTU1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKYU5NR3EvQTZya3JlQ0xSODk0Vlp3MFRyMjJncHZTNC9GTUR0UFNyZmJUMVhPbTFtQ0pyMXJoZk9manNSMndtS2x4RXB5SDF3bko1dzJzR1d4aTZxQlE9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.29/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1823948955&Signature=Z0THYzs1qprW0PPV%2FjoQwxYZbX0%3D"
     }
   }
 }
