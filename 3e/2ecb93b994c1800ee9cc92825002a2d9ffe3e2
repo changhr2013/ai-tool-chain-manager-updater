@@ -1,0 +1,14 @@
+public/updater.json
+  h_01d22fd056221b 2-4,7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3e2ecb93b994c1800ee9cc92825002a2d9ffe3e2",
+  "prompts": {},
+  "humans": {
+    "h_01d22fd056221b": {
+      "author": "changhaoran.5 <changhaoran.5@jd.com>"
+    }
+  }
+}
