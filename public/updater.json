@@ -1,11 +1,11 @@
 {
-  "version": "0.5.29",
-  "notes": "统一 MCP 管理与公共 MCP 集市版本顺延至 0.5.29；功能与 0.5.28 相同，修正发布版本号。Claude 部分项目/本地级操作与 OpenCode 项目文件操作仍需后续桌面回归。",
-  "pub_date": "2026-10-19T12:29:25.143Z",
+  "version": "0.5.30",
+  "notes": "修复 CPA 新版管理后台的内置免登，适配 v2 凭证存储，支持特殊字符密钥并保留会话与界面偏好。\n内置 CLIProxyAPI 升级至 v8.0.54，包含最新凭证处理、模型发现、用量统计及插件稳定性修复。\n升级后可在 CPA 管理页检查并同步内置组件，保留已有配置。",
+  "pub_date": "2026-11-04T13:09:43.103Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUQ1TEczRGM0NUlLaXBYeUpJSTRrUlY1ZGlkS0dVSFg1cHY4TzBENHVxRnViVk5mVHZXUDRja1BqL0ZuWXJPd0FaWDNHNG9XTWtuUjFoVE9sRlZFNXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDEyOTU1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKYU5NR3EvQTZya3JlQ0xSODk0Vlp3MFRyMjJncHZTNC9GTUR0UFNyZmJUMVhPbTFtQ0pyMXJoZk9manNSMndtS2x4RXB5SDF3bko1dzJzR1d4aTZxQlE9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.29/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1823948955&Signature=Z0THYzs1qprW0PPV%2FjoQwxYZbX0%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUhsSE03WFJNWFhudG16ejcxT0daVVBXeHNUNk5oZ0RNYU52bHBLOHJsdXYxeFZHMitrWVU4ZzJ4T2ZxTmhiSnlra2U4TE9pdmZldUpKUG5DZTN6ZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk3Nzc1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKcFp3bVU2bDJwMk9YZUJKS0tUU0NvdkZWNTQrbU5RcjNNbGIvV0o2WFBHZTBMdDdmaFVOSVlIWUxxWXJRZjNESFBobjhxK2pXenRmODN6bmhDaGc4Qnc9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.30/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825333775&Signature=Y6hPcHAOy1XEv3dXyzHf6a2LW2o%3D"
     }
   }
 }
