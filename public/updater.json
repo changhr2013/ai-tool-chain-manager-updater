@@ -1,11 +1,11 @@
 {
-  "version": "0.5.30",
-  "notes": "修复 CPA 新版管理后台的内置免登，适配 v2 凭证存储，支持特殊字符密钥并保留会话与界面偏好。\n内置 CLIProxyAPI 升级至 v8.0.54，包含最新凭证处理、模型发现、用量统计及插件稳定性修复。\n升级后可在 CPA 管理页检查并同步内置组件，保留已有配置。",
-  "pub_date": "2026-11-04T13:09:43.103Z",
+  "version": "0.5.31",
+  "notes": "新增全局快捷字典：内置 JoyBuilder 模型调用名，支持自定义常用配置值、收藏、搜索与复制，可通过抽屉或轻量字典窗口随时调用。\n模型输入框新增可复用的搜索与一键填入组件，保留精确调用名称和 Provider 前缀。\n统一关闭主窗口、字典窗口和内置 CPA 窗口的输入首字母自动大写与自动纠正。\nMCP 管理详情直接展示 Claude、Codex、OpenCode 的原始配置值，移除掩码和显示/隐藏按钮，凭据编辑支持明文审阅。\n修复正式包字典根地址兼容，以及项目凭据保存后原值被清理的问题。",
+  "pub_date": "2026-11-06T10:44:32.169Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUhsSE03WFJNWFhudG16ejcxT0daVVBXeHNUNk5oZ0RNYU52bHBLOHJsdXYxeFZHMitrWVU4ZzJ4T2ZxTmhiSnlra2U4TE9pdmZldUpKUG5DZTN6ZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk3Nzc1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKcFp3bVU2bDJwMk9YZUJKS0tUU0NvdkZWNTQrbU5RcjNNbGIvV0o2WFBHZTBMdDdmaFVOSVlIWUxxWXJRZjNESFBobjhxK2pXenRmODN6bmhDaGc4Qnc9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.30/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825333775&Signature=Y6hPcHAOy1XEv3dXyzHf6a2LW2o%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUZCRXhYd2dJaHNEc040aW9HdFNTK0l4WVhrZkNIR1kvUjhEQTByOXRIMGZSQ1d6bXhsRHBkY0VKcmJTSkkzdllQYkJuYkd0U3VFVVRONW5INXk0dndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYxODYwCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKN0NUZ2NINVhzUWtnSDFWUEVvNFFXbjJzeE1hQ2xyd3Fkem9PcEo4S1huZm8vUTNkb3lta2J4Y0FOOFNjVFR6NEZFTlpiSlk0WERDY2I3aFFiNktPRFE9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.31/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825497860&Signature=qCgVYndenEMoNMMCXrPjZigf5Gs%3D"
     }
   }
 }
