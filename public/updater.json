@@ -1,11 +1,11 @@
 {
   "version": "0.5.32",
   "notes": "新增 CLIProxyAPI 模型模板分享与导入，支持账号级模型、逐项选择、全选/取消全选，以及可选分享 Base URL；导入者填写自己的 API Key，预览后加入配置草稿。\n统一保存、按钮和紧凑工作台交互，完善 TOML 高亮与格式化，优化 CLIProxyAPI 引擎状态和授权密钥展示。\n修复 Codex 历史与 Profiles 列表文字重叠，改善长内容和键盘滚动焦点。\n更新应用 Logo 与全平台图标资源。",
-  "pub_date": "2026-11-11T03:04:13.117Z",
+  "pub_date": "2026-11-11T03:11:11.589Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUdXVUt4NDBvQThkalBFUTdiODF6NnVhZ3lOY1F5dmtwN1R6L0lIcXF2MFFGY3NvUitPQ2YwVTY5ak9hS1E3bC8zeHp4UCtSQkNibjZsdHhZVmdVZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY2MjM1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKRkRTMW9lQ0pwcElHLzNrcXZNRG9DeVFkZ2gxcG9ZNFNidDJEWmQ5QkJOVzNYb2tEZ3ArSkpsZVZOQ294RkFraXU5c0VldDlKaENYVHc2bXlGR29zQ3c9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.32/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825902235&Signature=kG%2BEIkgtGUsGXJTEQQ4i9VBpDqU%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcU50NS9PK04waHRRSmJ3QXBXUVA0UlNOM1hiOXpuU3FseGMyY0w5aEVBaDlPZ2FkTy85ZzREZFBGNGw2a0ZueVpiVld1RzlhaTNPSHFneWg2RE9MOFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY2NjE0CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKZWZVdGFuQ296ZTRMTGVJeWlYeERTV2hMMUR1dEVEK2tucXliZDFIMHRIZndVV0Z5blVyZkw2alhvcGUzR3ZGMXJ0cmo0dXRaQzladVI5eGhQVXBnQUE9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.32/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825902661&Signature=TqtW2QSwdq7LnAXz1IbUX4HuHFo%3D"
     }
   }
 }
