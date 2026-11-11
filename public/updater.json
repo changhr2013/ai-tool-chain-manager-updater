@@ -1,11 +1,11 @@
 {
-  "version": "0.5.31",
-  "notes": "新增全局快捷字典：内置 JoyBuilder 模型调用名，支持自定义常用配置值、收藏、搜索与复制，可通过抽屉或轻量字典窗口随时调用。\n模型输入框新增可复用的搜索与一键填入组件，保留精确调用名称和 Provider 前缀。\n统一关闭主窗口、字典窗口和内置 CPA 窗口的输入首字母自动大写与自动纠正。\nMCP 管理详情直接展示 Claude、Codex、OpenCode 的原始配置值，移除掩码和显示/隐藏按钮，凭据编辑支持明文审阅。\n修复正式包字典根地址兼容，以及项目凭据保存后原值被清理的问题。",
-  "pub_date": "2026-11-06T10:44:32.169Z",
+  "version": "0.5.32",
+  "notes": "新增 CLIProxyAPI 模型模板分享与导入，支持账号级模型、逐项选择、全选/取消全选，以及可选分享 Base URL；导入者填写自己的 API Key，预览后加入配置草稿。\n统一保存、按钮和紧凑工作台交互，完善 TOML 高亮与格式化，优化 CLIProxyAPI 引擎状态和授权密钥展示。\n修复 Codex 历史与 Profiles 列表文字重叠，改善长内容和键盘滚动焦点。\n更新应用 Logo 与全平台图标资源。",
+  "pub_date": "2026-11-11T03:04:13.117Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUZCRXhYd2dJaHNEc040aW9HdFNTK0l4WVhrZkNIR1kvUjhEQTByOXRIMGZSQ1d6bXhsRHBkY0VKcmJTSkkzdllQYkJuYkd0U3VFVVRONW5INXk0dndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYxODYwCWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKN0NUZ2NINVhzUWtnSDFWUEVvNFFXbjJzeE1hQ2xyd3Fkem9PcEo4S1huZm8vUTNkb3lta2J4Y0FOOFNjVFR6NEZFTlpiSlk0WERDY2I3aFFiNktPRFE9PQo=",
-      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.31/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825497860&Signature=qCgVYndenEMoNMMCXrPjZigf5Gs%3D"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnVuTkc1YW1CcUdXVUt4NDBvQThkalBFUTdiODF6NnVhZ3lOY1F5dmtwN1R6L0lIcXF2MFFGY3NvUitPQ2YwVTY5ak9hS1E3bC8zeHp4UCtSQkNibjZsdHhZVmdVZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY2MjM1CWZpbGU6QUktVG9vbC1DaGFpbi1NYW5hZ2VyLmFwcC50YXIuZ3oKRkRTMW9lQ0pwcElHLzNrcXZNRG9DeVFkZ2gxcG9ZNFNidDJEWmQ5QkJOVzNYb2tEZ3ArSkpsZVZOQ294RkFraXU5c0VldDlKaENYVHc2bXlGR29zQ3c9PQo=",
+      "url": "https://jdlogin.s3.cn-north-1.jdcloud-oss.com/ai/agents/releases/v0.5.32/AI-Tool-Chain-Manager.app.tar.gz?AWSAccessKeyId=JDC_718E88E247E5C2B920A9952BAF22&Expires=1825902235&Signature=kG%2BEIkgtGUsGXJTEQQ4i9VBpDqU%3D"
     }
   }
 }
